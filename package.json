@@ -1,0 +1,15 @@
+{
+  "name": "@bigaston/equi-to-planet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bigaston",
+  "license": "MIT",
+  "dependencies": {
+    "jimp": "^0.16.1",
+    "mathjs": "^9.3.2"
+  }
+}
