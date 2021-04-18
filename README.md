@@ -5,7 +5,7 @@ Port of this algorithm : [https://math.stackexchange.com/questions/607353/tiny-p
 
 ## Usage :
 ```JS
-const equi = require("@bigaston/equi-to-planet");
+const equi = require("equi-to-planet");
 
 equi.convert(imgBuffer)
   .then((planetBuffer) => {
